@@ -10,11 +10,11 @@ Computer vision work performed using the [OpenCV package](https://github.com/skv
 ### Repo Contents
 |file/directory|Description|
 |--------------|-----------|
-|container/python_image|Contains Dockerfile specification for the software stack used in this work.|
+|container/python_image/|Contains Dockerfile specification for the software stack used in this work.|
 |build_image.sh|Bash script to build Docker image.|
 |run_container.sh|Bash script to run Docker container for this work.|
-|input|Directory containing images to analyze.|
-|output|Directory containing the annotated images based on computer vision analysis.|
+|input/|Directory containing images to analyze.|
+|output/|Directory containing the annotated images based on computer vision analysis.|
 |dice_dot_counting.ipynb|Jupyter notebook performing the required analysis on the input images and generating the annotated output images.|
 |object_detection.ipynb|Prototyping notebook.|
 |sandbox.ipynb|Prototyping notebook.|
@@ -27,3 +27,5 @@ Computer vision work performed using the [OpenCV package](https://github.com/skv
 
 ### Here is the expected output image:
 ![](output/output_dice4.png)
+
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">

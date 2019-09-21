@@ -5,9 +5,13 @@ This was one of several challenges required to apply for a computer vision relat
 * determine the number of dots shown in each die
 * display the total number of dots shown in the image
 
-Computer vision work performed using the [OpenCV package](https://github.com/skvark/opencv-python) in Python.
+### Here are example input and output images:
+<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="399" height="370" title="Sample Input Image"> <img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="399" height="370" title="Sample Output Image">
 
-Prototyping notebooks require X-windows server.  For the MacOS, I used [XQuartz](https://www.xquartz.org).
+### Software Stack
+* Anaconda Python 3 with Jupyter notebook server
+* Computer vision work performed using the [OpenCV package](https://github.com/skvark/opencv-python) in Python.  
+* Prototyping notebooks require X-windows server:  [XQuartz](https://www.xquartz.org).
 
 ### Repo Contents
 |file/directory|Description|
@@ -24,7 +28,6 @@ Prototyping notebooks require X-windows server.  For the MacOS, I used [XQuartz]
 |1 - Count Dice Dots Instructions.(pdf &#124; docx)|Instructions for the challenge.|
 
 
-### Here is an example an example input image:
-<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="399" height="370" title="Sample Input Image"> <img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="399" height="370" title="Sample Output Image">
+
 
 

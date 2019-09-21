@@ -11,7 +11,7 @@ This was one of several challenges required to apply for a computer vision relat
 ### Software Stack
 * Anaconda Python 3 with Jupyter notebook server
 * Computer vision work performed using the [OpenCV package](https://github.com/skvark/opencv-python) in Python.  
-* Prototyping notebooks require X-windows server:  [XQuartz](https://www.xquartz.org).
+* X-windows server:  [XQuartz](https://www.xquartz.org).
 
 ### Repo Contents
 |file/directory|Description|

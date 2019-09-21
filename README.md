@@ -6,8 +6,7 @@ This was one of several challenges required to apply for a computer vision relat
 * display the total number of dots shown in the image
 
 ### Here are example input and output images:
-<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="399" height="370" title="Sample Input Image"> 
-<img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="399" height="370" title="Sample Output Image">
+<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" style="max-width:100%;"  title="Sample Input Image"> <img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="399" height="370" title="Sample Output Image">
 
 ### Software Stack
 * Anaconda Python 3 with Jupyter notebook server

@@ -25,6 +25,6 @@ Prototyping notebooks require X-windows server.  For the MacOS, I used [XQuartz]
 
 
 ### Here is an example an example input image:
-<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="333" height="308" title="Sample Input Image"> <img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="333" height="308" title="Sample Output Image">
+<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="399" height="370" title="Sample Input Image"> <img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="399" height="370" title="Sample Output Image">
 
 

@@ -23,7 +23,7 @@ Computer vision work performed using the [OpenCV package](https://github.com/skv
 
 
 ### Here is an example an example input image:
-<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="300" height="300" title="Sample Input Image">
+<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="499" height="463" title="Sample Input Image">
 
 ### Here is the expected output image:
 <img src="https://github.com/jimthompson5802/dice_counting/blob/master/output/output_dice1.png" width="300" height="300" title="Sample Input Image">

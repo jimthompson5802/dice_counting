@@ -23,9 +23,9 @@ Computer vision work performed using the [OpenCV package](https://github.com/skv
 
 
 ### Here is an example an example input image:
-![](input/dice4.png)
+![](input/dice4.png =250x)
 
 ### Here is the expected output image:
 ![](output/output_dice4.png)
 
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
+<img src="https://github.com/jimthompson5802/dice_counting/blob/master/input/dice1.png" width="256" height="256" title="Github Logo">
